@@ -1,0 +1,1 @@
+# guatanga-argocd-public
